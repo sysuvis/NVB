@@ -104,4 +104,4 @@ As a toolkit specialized for neural networks, NNVisBuilder is designed to:
 
 Further explanations, detailed instructions, user manuals, and API documents will be provided in the future.
 
-Please refer to [this manual](https://github.com/NaClSSS/NNVisBuilder/blob/main/documents/manual.md) for more information on implementation and API.
+Please refer to [this manual](https://github.com/sysuvis/NVB/blob/main/documents/manual.md) for more information on implementation and API.
