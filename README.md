@@ -1,3 +1,5 @@
+[Beta Version](https://github.com/sysuvis/NVB-beta)
+
 # Getting started with NNVisBuilder
 
 To use NNVisBuilder, first run `mlp.py` and see how it works. If you run `cnn.py` or `kdt.py`, the relevant dataset will be automatically downloaded first. If you run `lstm.py`, you need to manually download `eng-fra.txt` from the data folder at [NNVisBuilder Big Files](https://pan.baidu.com/s/1IQKDWLq65XKhWv1ObXAoxQ?pwd=1234) and place it in the data folder, and download `encoder.pth` and `decoder.pth` from the model folder and place them in the model folder.
