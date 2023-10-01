@@ -1,4 +1,4 @@
-[Beta Version](https://github.com/sysuvis/NVB-beta)
+## [Beta Version](https://github.com/sysuvis/NVB-beta)
 
 # Getting started with NNVisBuilder
 
