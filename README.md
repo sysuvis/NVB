@@ -1,4 +1,6 @@
 ## [Beta Version](https://github.com/sysuvis/NVB-beta)
+## [Tutorial](https://github.com/sysuvis/NVB/blob/main/documents/tutorial.pdf)
+## [Manual](https://github.com/sysuvis/NVB/blob/main/documents/manual.md)
 
 # Getting started with NNVisBuilder
 
