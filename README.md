@@ -109,3 +109,14 @@ As a toolkit specialized for neural networks, NNVisBuilder is designed to:
 Further explanations, detailed instructions, user manuals, and API documents will be provided in the future.
 
 Please refer to [this manual](https://github.com/sysuvis/NVB/blob/main/documents/manual.md) for more information on implementation and API.
+
+```bibtex
+@ARTICLE{10308640,
+  author={Lai, Shaoxuan and Luan, Wanna and Tao, Jun},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Explore Your Network in Minutes: A Rapid Prototyping Toolkit for Understanding Neural Networks with Visual Analytics}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TVCG.2023.3326575}}
